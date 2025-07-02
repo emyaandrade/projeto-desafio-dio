@@ -23,5 +23,5 @@ if (quantidadeXP < 1.000) {
     nivelHeroi = "Radiante";
 }
 
-console.log("O Herói de nome: " +nomeHeroi + "\nEstá no nível: " +nivelHeroi +" com " +quantidadeXP + "xp")
+console.log("O Herói de nome: " +nomeHeroi + "\nEstá no nível: " +nivelHeroi +" com " +quantidadeXP + "xp.")
 
